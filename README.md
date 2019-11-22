@@ -1,13 +1,12 @@
-<<<<<<< HEAD
-# node-callback-api
-This one is the sample project created for learning purpose using Node.js Callbacks.
+# node-promises
+This one is the sample project created for learning purpose using Node.js Promises.
 
 
 Install
 npm install 
 
 Learing priorities to understand the following features,
-1. Callbacks
+1. Promises
 2. JWT (jsonwebtoken)
 3. MongoDB Native Library
 4. Routing
@@ -18,6 +17,3 @@ Usage
 
 
 
-=======
-# node-promises
->>>>>>> 0de6ddcc65152dad60f6aebe5dac1055095545ea

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # node-callback-api
 This one is the sample project created for learning purpose using Node.js Callbacks.
 
@@ -17,3 +18,6 @@ Usage
 
 
 
+=======
+# node-promises
+>>>>>>> 0de6ddcc65152dad60f6aebe5dac1055095545ea
